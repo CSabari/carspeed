@@ -2,7 +2,7 @@ var mqtt = require('mqtt');
 
 // Don't forget to update accessToken constant with your device access token
 const thingsboardHost = "demo.thingsboard.io";
-const accessToken = "YOUR_DEVICE_ACCESS_TOKEN";
+const accessToken = "hSjkwf1e9OPCdVFcMsNZ";
 const minSpeed = 17.5, maxSpeed = 30;
 
 // Initialization of carspeed data with random values
